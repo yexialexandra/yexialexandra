@@ -7,3 +7,5 @@ viviendo en todo el mundo
 Hoy hablaremos de su historia, y de como se encarta con git
 
 ya se librará de dudas
+
+En cámara parece alta, pero la verdad no es tan alta
